@@ -31,7 +31,9 @@ Clone the repository:
 ```
 git clone https://github.com/yangliu9527/object_slam
 ```
-There are some thirdparty files we can not upload due to the size. Users can copy them from [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2). Two directories need to be copy: Thirdparty and Vocabulary  
+There are some thirdparty files we can not upload due to the size. Users can copy them from [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2). Two directories need to be copy: Thirdparty and Vocabulary.
+
+
 We provide a script `build.sh` to build the *Thirdparty* libraries and *ObjectSLAM*. Please make sure you have installed all required dependencies (see section 2). Execute:
 ```
 cd object_slam
