@@ -52,7 +52,7 @@ The system supports TUM RGB-D and KITTI-Odometry datasets. The interfaces are th
 
 # 4. Run System
 
-We provide two python scripts to run the system on different systems. Please refer to run_exp_tum.py and run_exp_kitti.py for running commands.
+We provide two python scripts to run the system on different sequences. Please refer to run_exp_tum.py and run_exp_kitti.py for running commands.
 
 It should be noted that the dataset path and the threshold of semantic score should be added into the .yaml file. 
 
